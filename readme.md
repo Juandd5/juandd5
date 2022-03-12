@@ -8,7 +8,7 @@ My  name is Juan David, I'm from Colombia and I'm Jr Python Back-end Developer.
 ## Skills
 
 - Python :snake:
-- Back-end development with FastAPI y Django.
+- Back-end development with FastAPI and Django.
 - Relational database engines.
 - Knowledge of Object Oriented Programming.
 - Some HTML and CSS coding.
