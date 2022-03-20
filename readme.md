@@ -16,3 +16,4 @@ My  name is Juan David, I'm from Colombia and I'm Jr Python Back-end Developer.
 ## Contact
 
 - juandiazr95@gmail.com
+- LinkedIn profile: https://www.linkedin.com/in/juan-david-diaz/
